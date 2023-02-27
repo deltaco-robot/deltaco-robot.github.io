@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DeL-TaCo
+description: Multitask robotic policies conditioned on both demonstrations and language
 theme: just-the-docs
 
 url: https://deltaco-robot.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  PDF: https://arxiv.org/pdf/2210.04476.pdf
+  Poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59614.png?t=1669332922.2491133
+  Env Code (coming soon): /
+  Training Code (coming soon): /
