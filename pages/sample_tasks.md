@@ -11,7 +11,10 @@ permalink: sample_tasks
 1. TOC
 {:toc}
 
-# Selected Train Tasks
+# Sample Tasks
+Below, we show a sampling of the 300 tasks in our benchmark. The container positions are shuffled upon each environment reset, even within the same task. In the natural language instruction, the target container is identified by either its color or position, and the target object is identified by either its name, color, or shape.
+
+## Selected Train Tasks
 <table style="table-layout: fixed; width: 100%;">
     <tr>
         <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_1/concat.mp4" type="video/mp4"></video></td>
@@ -27,7 +30,7 @@ permalink: sample_tasks
     </tr>
 </table>
 
-# Selected Test Tasks
+## Selected Test Tasks
 <table style="table-layout: fixed; width: 100%;">
     <tr>
         <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_32/concat.mp4" type="video/mp4"></video></td>
