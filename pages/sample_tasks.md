@@ -14,10 +14,10 @@ permalink: sample_tasks
 # Selected Train Tasks
 <table style="table-layout: fixed; width: 100%;">
     <tr>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_1/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_87/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_141/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_270/0.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_1/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_87/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_141/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_270/concat.mp4" type="video/mp4"></video></td>
     </tr>
     <tr>
         <td>Task #1: "<i>Put fountain vase in green bin.</i>"</td>
@@ -30,10 +30,10 @@ permalink: sample_tasks
 # Selected Test Tasks
 <table style="table-layout: fixed; width: 100%;">
     <tr>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_32/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_97/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_178/0.mp4" type="video/mp4"></video></td>
-        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_248/0.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_32/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_97/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_178/concat.mp4" type="video/mp4"></video></td>
+        <td><video loop=true autoplay=true width="100%" height="100%" controls><source src="https://www.cs.utexas.edu/users/ml/mturk/videos/taskid_248/concat.mp4" type="video/mp4"></video></td>
     </tr>
     <tr>
         <td>Task #32: "<i>Put black and white colored object in green bin.</i>"</td>
