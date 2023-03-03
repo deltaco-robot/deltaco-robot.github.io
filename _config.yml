@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://deltaco-robot.github.io
 
 aux_links:
-  PDF: https://arxiv.org/pdf/2210.04476.pdf
+  PDF: https://openreview.net/pdf?id=4u42KCQxCn8
   Poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59614.png?t=1669332922.2491133
   Env Code (coming soon): /
   Training Code (coming soon): /

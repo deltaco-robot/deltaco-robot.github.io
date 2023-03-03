@@ -61,4 +61,4 @@ permalink: sample_tasks
 <p><strong>Scenario A (novel objects, colors, and shapes)</strong> trains on all <span style="background-color: #E6E6E6">gray</span> tasks and tests on <span style="background-color: #FFFFE0">yellow</span>, <span style="background-color: #E0E0FF">blue</span>, and <span style="background-color: #E0FFE0">green</span> tasks.</p>
 <p><strong>Scenario B (novel colors and shapes)</strong> trains on all <span style="background-color: #E6E6E6">gray</span> and <span style="background-color: #FFFFE0">yellow</span> tasks and tests on <span style="background-color: #E0E0FF">blue</span> and <span style="background-color: #E0FFE0">green</span> tasks.</p>
 
-<a href="files/task_table.png"><img width="50%" src="files/task_table.png" /></a>
+<center><a href="files/task_table.png"><img width="50%" src="files/task_table.png" /></a></center>
