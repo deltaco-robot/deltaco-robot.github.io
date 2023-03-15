@@ -9,3 +9,8 @@ aux_links:
   Poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59614.png?t=1669332922.2491133
   Env Code (coming soon): /
   Training Code (coming soon): /
+
+callouts:
+  update:
+    title: Update
+    color: yellow

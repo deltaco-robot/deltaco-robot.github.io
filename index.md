@@ -16,15 +16,15 @@ UT Austin<br>
 </center>
 {: .fs-4 .fw-300 }
 
-{: .note-title }
-> Code release
->
-> We plan to clean up and make public our environment codebase by the end of March and our training codebase by the end of April (before the ICLR conference).
-
 
 ## Method Overview
 {: .no_toc .text-delta }
 <image src="files/overview_fig_v2.1.jpg" />
+
+{: .update }
+> <strong>Code release update (2023 Mar 15)</strong>
+>
+> We are in the process of cleaning up our code. We plan to make public our environment codebase by the end of March and our training codebase by the end of April. Both will be linked to this website before the ICLR conference.
 
 ## Table of contents
 {: .no_toc .text-delta }
