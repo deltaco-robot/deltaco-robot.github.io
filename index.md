@@ -22,6 +22,11 @@ UT Austin<br>
 <image src="files/overview_fig_v2.1.jpg" />
 
 {: .update }
+> <strong>Datasets released! (2023 Mar 30)</strong>
+>
+> All of our <a href="datasets">datasets</a> are released.
+
+{: .update }
 > <strong>Code release update (2023 Mar 15)</strong>
 >
 > We are in the process of cleaning up our code. We plan to make public our environment codebase by the end of March and our training codebase by the end of April. Both will be linked to this website before the ICLR conference.
