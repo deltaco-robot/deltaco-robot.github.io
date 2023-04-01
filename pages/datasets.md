@@ -72,7 +72,7 @@ root:NXroot
 These are the same tasks as the 48 + 54 splits in the train datasets, but in a much smaller filesize provided as few-shot target task demonstrations. Since these are much smaller, we use the npy file format so that they are entirely loaded into memory during experiments.
 <ul>
 	<li><strong>E48 + E54</strong>: <a href="https://utexas.box.com/s/rg28sk6ko7bcsc20nktyen9exndktjlr">[npy file]</a>. ~600MB.</li>
-		<ul><li>Contains task indices: 24-35, 45-49, 74-85, 95-99, 124-, 145-149, 174-185, 195-199, 224-235, 245-249, 274-285, 295-299</li></ul>
+		<ul><li>Contains task indices: 24-35, 45-49, 74-85, 95-99, 124-135, 145-149, 174-185, 195-199, 224-235, 245-249, 274-285, 295-299</li></ul>
 </ul>
 
 # Datasets by Experimental Scenario
@@ -99,7 +99,7 @@ These are the same tasks as the 48 + 54 splits in the train datasets, but in a m
 
 <sup>1</sup>For experimental scenario B, we use the same dataset as experimental scenario A despite only testing on 54 of the dataset's 102 tasks, because the experimental script automatically filters out the target demonstrations from the unused task indices.
 
-# Concatenating datasets:
+# Concatenating datasets
 Due to the file size limit of our cloud storage server, some of the table entries above, such as Exp Scenario B, require concatenating two different files on your local machines, such as T198 + T48.
 
 To concatenate, run:
