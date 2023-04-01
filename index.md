@@ -22,9 +22,10 @@ UT Austin<br>
 <image src="files/overview_fig_v2.1.jpg" />
 
 {: .update }
-> <strong>Datasets released! (2023 Mar 30)</strong>
->
-> All of our <a href="datasets">datasets</a> are released.
+> <strong>[Environment Codebase](https://github.com/Alacarter/roboverse-deltaco) released! (2023 Apr 1)</strong>
+
+{: .update }
+> <strong>[Datasets](datasets) released! (2023 Mar 30)</strong>
 
 {: .update }
 > <strong>Code release update (2023 Mar 15)</strong>
