@@ -1,0 +1,1501 @@
+,Task ID,Instruction
+0,0,place the cup shaped object to the green tray
+1,0,put gray colored object in green tray
+2,0,drop white colored object into the green tray
+3,0,comportment black shape object in green container
+4,0,slip black and white shaped object in green container
+5,1,insert the brown colored object in green tray
+6,1,put brown shape object in green container
+7,1,pick brown colored object and place it to the green tray
+8,1,put  vase shaped object to green container 
+9,1,drop brown colored object do the green tray
+10,2,carry dumbbell shaped blue object and set down in green holder.
+11,2,pick the blue colored object in green tray
+12,2,drop blue shaped object in green container 
+13,2,place blue colored object in green tray
+14,2,put blue colored object to the green tray
+15,3,put brown shaped object in green container 
+16,3,put brown colored object on the green tray
+17,3,insert the brown colored object in the green tray
+18,3,put brown colored shaped object in the green container
+19,3,pick the brown colored object and place to tray it green tray
+20,4,put black colored shaped object in the green container
+21,4,drop the chalice shaped object on the green tray
+22,4,take white colored object at the green tray
+23,4,drop chalice shaped object the green tray
+24,4,Grab the Black and white dumbell and place it in the green receptical
+25,5,slip the brown colored object in the green tray
+26,5,insert brown color shaped container  in the green container 
+27,5,pick the brown colored object in green tray
+28,5,insert the brown colored object on green tray
+29,5,slip brown colored shaped object in the green container
+30,6,pick the brown colored object the green tray
+31,6,insert brown shape object in green container
+32,6,insert the brown colored object in the green tray 
+33,6,place trapezoidal prism shaped object in the green container
+34,6,place  brown colored object  on the green tray
+35,7,place gray colored object at the green tray
+36,7,drop the chalice shaped object on the green tray
+37,7,slip gray colored shaped object  in the green container
+38,7,drop chalice shaped object in green container
+39,7,Pick the gray colored object place the green tray.
+40,8,place white colored shaped object in the green container
+41,8,place white color shaped object in the green container 
+42,8,pick white colored objected was the green tray
+43,8,insert the white colored object on green tray
+44,8,insert the white colored object in green tray
+45,9,insert red colored shaped object in the green container
+46,9,take brown colored object  at the  green tray
+47,9,put brown colored object to the green tray
+48,9,Grasp red color bowl and drop it in green bin
+49,9,insert red colored shaped object in the green container
+50,10,put white shaped object in green container
+51,10,place white colored object in green tray
+52,10,drop pot shaped object in green container
+53,10,place the white colored object on the green tray
+54,10,put white colored object in the green tray
+55,11,drop brown colored object on the green tray
+56,11,put brown colored shaped object in the green container
+57,11,put brown shaped object in green container 
+58,11,put the brown colored object into the green tray
+59,11,put brown colored object in green tray
+60,12,take the gray colored object and to place to the green tray
+61,12,put gray shape object in green container
+62,12,put the gray colored object in green tray
+63,12,slip the gray color object on green tray
+64,12,put gray shaped object in green container
+65,13,drop white colored object into green tray 
+66,13,put white colored object on the green tray
+67,13,pick white colored object on the green tray
+68,13,space white shaped object in green container
+69,13,insert white shaped object in green container
+70,14,put red shaped object in green container 
+71,14,put red shaped object in green container
+72,14,Put red chili shaped object in green bin.
+73,14,insert brown colored object with the green tray
+74,14,insert brown colored object on the green tray
+75,15,take freeform shaped object and put in green tray
+76,15,space freedom shaped object in green container
+77,15,pick brown colored object in the  green tray
+78,15,place red color shaped object in the green container 
+79,15,place  red colored object to green container
+80,16,drop the orange colored object at the green tray
+81,16,slip orange colored shaped object in the green container
+82,16,drop orange shaped object in the green container 
+83,16,transition the long boat shaped object into a green vessel
+84,16,place orange colored object on the green tray
+85,17,drop wedge shaped object in green container
+86,17,put orange shaped object in green container 
+87,17,pick orange colored object and place the green tray
+88,17,pick the  orange colored object place green tray
+89,17,slip the vase shaped object and to place in the green tray
+90,18,place blue colored object the green tray
+91,18,put the blue colored object on green tray
+92,18,insert blue shape object in green container
+93,18,insert the blue color object to green tray
+94,18,place blue colored shaped object to green container
+95,19,pick the brown colored object like the green tray 
+96,19,shift the bullet shaped object over to a green receptacle
+97,19,grasp brown bullet shaped object and drop in green bin
+98,19,put brown shape object in green container
+99,19,put brown colored object in the green container
+100,20,drop gray colored shaped object in the green container
+101,20,drop the gray colored object into the green tray
+102,20,pick up the gray bottle then drop it into the green bin
+103,20,place the bottle shaped object to the green tray
+104,20,place the gray color object to the green tray
+105,21,pick the brown colored object at the green tray
+106,21, slip brown color shaped object to green container 
+107,21,pick the brown colored object in green tray
+108,21,drop brown colored object on the green tray
+109,21,space brown shape object in green container
+110,22,put brown color shaped object in the green container 
+111,22,pick brown colored object for the green tray
+112,22,put brown colored shaped object in the green container
+113,22,insert brown colored object and the green tray
+114,22,insert the brown colored object on green tray
+115,23,place the brown colored object in green tray
+116,23,place brown shaped object in green container
+117,23,space  brown shaped object in green container
+118,23,pick brown colored object in green tray
+119,23,pick the brown colored object in green tray
+120,24,drop gray shaped object in green container
+121,24,put gray shaped object in green container 
+122,24,pick the gray colored object like the green tray 
+123,24,insert gray colored object  at the green tray
+124,24,take gray colored object on the green tray
+125,25,pick the gray colored object on green tray
+126,25,insert gray shaped object in green container 
+127,25,square gray shaped object in green container
+128,25,insert gray colored object  to green tray
+129,25,pick gray colored object and insert to green tray 
+130,26,insert the cup shaped water jug object to green tray
+131,26,place the cup shape object to the green tray
+132,26,square cubic shaped object in green container
+133,26,slip cubic shaped object in green container
+134,26,pick blue colored objected in to the green tray
+135,27,place bowl shaped object in green container
+136,27,drop brown shaped object in green container
+137,27,pick the brown colored object in  green tray
+138,27, insert brown colored object on the green tray
+139,27,place the round cereal bowl shaped object in the green colored tray
+140,28,insert brown colored object on the green tray
+141,28,place the brown colored object into green tray
+142,28,drop brown color shaped object  to green container 
+143,28,put brown colored object in green tray
+144,28,place brown shape object in green container 
+145,29,drop yellow shaped object in green container 
+146,29,place the yellow colored object in green tray
+147,29,insert yellow colored object on the green tray
+148,29,insert yellow colored shaped object in the green container
+149,29,pick the yellow colored object in green tray
+150,30,insert the cup shape object to green tray
+151,30,drop gray colored object in green tray
+152,30,put the gray colored object on green tray
+153,30,insert gray colored shaped object in the green container
+154,30,place gray colored shaped object in the green container
+155,31,place blue colored object  in the green container
+156,31,place blue colored object at the  green tray
+157,31,pick the blue colored object and drop in the green tray
+158,31,insert blue shaped object in green container 
+159,31,insert blue colored object in green tray
+160,32,space  black and white shaped  object in green container
+161,32,insert black and white shaped object in green container
+162,32,Pick the white colored object insert the green tray.
+163,32,put gray colored object into the green tray
+164,32,put the gray colored object into green tray
+165,33,put brown shaped object in green container
+166,33,put brown colored object in the green tray
+167,33,put the brown colored object in the green tray
+168,33,place brown shaped object in green container 
+169,33,pick the brown colored object and drop in the green tray
+170,34,place the blue colored object in the green tray
+171,34,take blue colored object and insert the green tray
+172,34,drop blue shaped object in green container
+173,34,slip blue shaped object in green container
+174,34,place blue colored object in the green tray
+175,35,drop gray colored object into the green tray
+176,35,pick the gray colored object place green tray
+177,35,drop the gray colored object the green tray
+178,35,drop gray shaped object in green container 
+179,35,space gray shaped object in green container
+180,36,drop white colored objected on the  green tray
+181,36,drop white colored shaped object in the green container
+182,36,put white shaped object in green container
+183,36,insert white colored object on the green tray
+184,36,drop the white colored object in green tray
+185,37,space red object in green container
+186,37,drop the brown colored object in green tray
+187,37,place gray colored object in green tray
+188,37,put red shaped object in green container
+189,37,drop brown colored object into green tray 
+190,38,put orange colored object in green tray
+191,38,put orange colored object on the green tray
+192,38,put orange colored object  into the green tray  
+193,38,drop orange shaped object in green container 
+194,38,drop orange shaped object in green container
+195,39,drop yellow shaped object in green container 
+196,39,pick yellow colored object the green tray
+197,39,pick yellow colored object for the green tray
+198,39,Put the yellow colored object to green tray.
+199,39,place yellow shaped object in green container
+200,40,drop vase shaped object in the green tray
+201,40,insert vase shaped object at the green tray
+202,40,put gray colored shaped object in the green container
+203,40,put bowl shape object in green container
+204,40,insert the vase shaped object on the green tray
+205,41,drop the chalice shaped object on green tray
+206,41,put tulip-shaped object in the green container
+207,41,drop the chalice shaped object in green tray
+208,41,put goblet  shaped object in green container
+209,41,insert chalice shaped object was the green tray
+210,42,Pick up the irregular shaped item and then put it into the green colored bin.
+211,42,put organic shaped object in green container 
+212,42,put freeform shaped object in green tray
+213,42,put white color shaped object in the green container 
+214,42,place freeform shaped object in green tray
+215,43,drop the bottle shaped object into the green tray
+216,43,place cylinder shape object in green container
+217,43,place skittle shaped object  in the green container
+218,43,inset the bottle shaped object in green tray
+219,43,pick the bottle shaped object in green tray
+220,44,drop coracle shaped object in the green container 
+221,44,pick the canoe shaped object on green tray
+222,44,place orange colored shaped object in the green container
+223,44,pick canoe shaped object  for the  green tray
+224,44,drop canoe shaped object on the green tray
+225,45,pick cup shaped object in green tray
+226,45,pick the cup shaped object insert green tray
+227,45,pick the cup shaped object and insert to green tray
+228,45,drop cylinder shaped object in green container 
+229,45,insert cylinder  shaped object in green container 
+230,46,pick the bowl shaped object and drop in the green tray
+231,46,insert bowl shaped object on the  green tray
+232,46,place spherical shaped object in the green container
+233,46,place bowl shaped object on the green tray
+234,46,place curved shaped object in green container 
+235,47,pick the trapezoidal prism shaped object green tray
+236,47,insert the trapezoidal prism shaped object in green tray
+237,47,insert square shaped object in green container 
+238,47,Picked up the cowbell shaped object and put it in the green bin.
+239,47,Grab the rectangular box and move it to the green colored receptacle
+240,48,drop cylinder shaped object with the green tray
+241,48,drop the cylinder shaped object in green tray
+242,48,slip bottle shaped object in green container 
+243,48,insert dimensional shaped object in the green container
+244,48,place cylinder shaped object on the green tray 
+245,49,put the round hole shaped object in green tray
+246,49,place round hole shaped object in green tray
+247,49,Pick the  round hole shaped object in the green tray.
+248,49,space round shaped object in green container
+249,49,drop blue colored shaped object in the green container
+250,50,drop gray colored object in red tray
+251,50,insert black and white shaped object in red container 
+252,50,pick the cup shaped object and drop in the red tray
+253,50,insert   black and white shaped object in red side container 
+254,50,take  white colored object  at the  red tray
+255,51,place brown colored object on the red tray
+256,51,put brown colored object in to red tray
+257,51,insert pot shaped object in red container 
+258,51,insert brown shaped object in red container 
+259,51,pick the brown colored object in red tray
+260,52,drop blue colored object in red tray
+261,52,insert blue shape object in red container
+262,52,place the blue colored object the red tray
+263,52,drop blue colored object the red tray
+264,52,drop blue colored object  in the red container
+265,53,pick the brown colored object in red tray
+266,53,drop bowl shaped object in the red container 
+267,53,space container shaped object in red container
+268,53,insert brown colored object the red tray
+269,53,insert brown colored object the red tray
+270,54,drop the gray and white colored object to red tray
+271,54,insert gray and white colored object on the red tray
+272,54,put black shape object in red container
+273,54,put black and white color shaped object in the red container 
+274,54,drop chalice shaped object at the red tray
+275,55,drop square prism bin object in the red container
+276,55,insert brown colored object in red tray
+277,55,pick brown colored object to the red tray
+278,55,drop the trapezoidal prism shaped object on the red tray
+279,55,slip brown colored object to red container
+280,56,space trapezoidal shaped object in red container
+281,56,drop brown shaped object in red container 
+282,56,Take the vibrant brown trapezoidal woven basket and place it into the red bin.
+283,56,drop brown colored object on the red tray
+284,56,drop the trapezoidal prism shape object on the red tray
+285,57,put the gray colored object into the red tray
+286,57,place the gray colored object on red tray
+287,57,insert gray shape object in red container
+288,57,Put the gray colored object to the red tray.
+289,57,drop gray color shaped object  in the red container 
+290,58,drop white colored object in the red tray
+291,58,pick  white colored object  on the  red tray
+292,58,put eh white colored object into the red tray
+293,58,place white colored shaped object in the red container
+294,58,place white color shaped object in the red container 
+295,59,pick the brown colored object in red tray
+296,59,place brown colored object on the red tray
+297,59,slip the red color object to red tray
+298,59,insert red shaped object in red container 
+299,59,drop red colored shaped object in the red container
+300,60,drop white colored object in red tray
+301,60,insert white colored shaped object in the red container
+302,60,drop white colored shaped object in the red container
+303,60,put white colored object on the red tray
+304,60,insert white colored object on the red tray
+305,61,put brown colored object in the red container
+306,61,insert pot shaped object in red container
+307,61,insert brown colored object in red tray
+308,61,insert brown colored object on the red tray
+309,61,Collect barrel shaped brown object then release into the red box.
+310,62,put gray shaped object in red container 
+311,62,Place the gray colored object in red tray.
+312,62,place gray colored object  on the red tray 
+313,62,put bottle shaped object in red container 
+314,62,insert gray colored object with the red tray
+315,63,stew bowl shaped object in the red container
+316,63,place white colored object in the red tray
+317,63,insert white colored object on red tray
+318,63,place white shaped object in red container 
+319,63,place white colored object at the  red tray
+320,64,drop bottle shaped object in red container
+321,64, place red colored object was the red tray
+322,64,put red colored shaped object in the red container
+323,64,place brown colored object on the red tray
+324,64,place brown colored object  in the red tray
+325,65,drop brown colored object in red tray
+326,65,insert the red colored object to the red tray
+327,65,slip red shaped object in red container 
+328,65,take brown colored object and the red tray
+329,65,place red shaped object in red container
+330,66,drop the canoe shaped object on the red tray
+331,66,drop the orange colored object the red tray
+332,66,pick the orange colored object to the red tray
+333,66,drop orange colored object in the red container
+334,66,slip orange color shaped object in the red container 
+335,67,drop  vase shaped object  in the red container 
+336,67,insert orange colored object on red tray
+337,67,insert orange shaped object in red container 
+338,67,put orange colored object  was the red tray
+339,67,insert orange colored object the red tray
+340,68,Pick the blue colored object place the red tray.
+341,68,put blue shaped object in red container 
+342,68,put cup shaped object in the red container 
+343,68,place cup shaped object in red container
+344,68,place blue colored object to red tray
+345,69,drop brown colored object on the red tray
+346,69,put brown colored object in red tray
+347,69,put the brown colored object on red tray
+348,69,put brown color shaped object in the red container 
+349,69,drop vase shaped object in red container
+350,70, place gray colored object at the red tray
+351,70,pick the gray colored object in red tray
+352,70,place the gray colored object the red tray
+353,70,place gray colored shaped object  in the red container
+354,70,grasp the bottle shaped gray object an put into the red receptical
+355,71,put the brown colored object on red tray
+356,71,place brown shape object in red container
+357,71,slip brown shaped object in red container 
+358,71,put brown colored object on the red tray
+359,71,put the brown colored object into red tray
+360,72,drap brown colored object in the red tray
+361,72,place brown colored shaped object in the red container 
+362,72,drop trapezoidal shaped object in red container
+363,72,drop brown colored object the red tray
+364,72,insert the brown colored object on red tray
+365,73,insert the canoe shape object to red tray
+366,73,insert brown shaped object in red container 
+367,73,square canoe shaped object in red container
+368,73,slip the canoe shape object to red tray
+369,73,slip the brown color and to put to the red tray
+370,74,Grab the gray tub shaped object and drop it in the red container.
+371,74,insert gray colored shaped object in the red container
+372,74,pickup the gray color object and place it on the red tray
+373,74,space curved shaped object in red container
+374,74,slip the bowl shape object and placed red tray
+375,75,put gray shaped object in red container
+376,75,put gray shape object in red container
+377,75,take gray colored object route the red tray
+378,75,pick gray colored object on the red tray
+379,75,insert gray colored object on the red tray
+380,76,put the blue colored object into the red tray
+381,76,put blue colored object on red tray
+382,76,slip cubic shaped object in red container
+383,76,slip cubic shaped object i red container
+384,76,pick the blue colored object on red tray
+385,77,put the brown colored object into the red tray
+386,77,put brown colored object on red tray
+387,77,insert brown colored object in the red container
+388,77,insert brown shaped object in red container 
+389,77,insert the brown colored object on red tray
+390,78,drop brown colored object on the red tray
+391,78,Insert the brown colored object in the red tray.
+392,78,insert brown shaped object in red container
+393,78,insert brown shape object in red container
+394,78,pick the brown colored object and place it to the red tray
+395,79,place yellow colored object on red tray
+396,79,place yellow colored object the red tray
+397,79,insert yellow colored object to the red tray
+398,79,put round shaped object in red container
+399,79,insert yellow shape object in red container
+400,80,put gray colored object into the red tray 
+401,80,put the cup shaped object in the red tray
+402,80,drop gray colored shaped object in the red container
+403,80,put the gray shaped object in red tray
+404,80,place cubical shaped object in red container
+405,81,put blue colored object into red tray
+406,81,put blue colored shaped object in the red container
+407,81,put the blue colored object on red tray
+408,81,put blue shaped object in the red container 
+409,81,drop cylinder shaped object in red container
+410,82,drop  white colored object in the red tray
+411,82,drop the gray colored object into the red tray
+412,82,space black shaped object in red container
+413,82,slip black and white shaped object in red container 
+414,82,put the gray colored object into the red tray
+415,83,drop brown shaped object in red container
+416,83,put brown colored object in the red tray
+417,83,put the brown colored object on red tray
+418,83,put brown colored shaped object  in the red container
+419,83,drop the brown colored object in red tray
+420,84,place the blue colored object in red tray
+421,84,place blue colored object in red tray
+422,84,put blue shaped object in red container
+423,84,put blue colored shaped object in the red container
+424,84,insert blue colored object was the red tray
+425,85,insert gray shaped object in red container
+426,85,put gray colored object in red tray
+427,85,insert gray colored shaped object in the red container
+428,85,put gray colored object on red tray
+429,85,take  gray colored object with the red tray
+430,86,drop white shaped object in red container 
+431,86,drop white colored object into red tray
+432,86,Pick up the colorless shape and place it in the red colored bin.
+433,86,grasp white item and put it into red bin
+434,86,take the white colored object with the red tray
+435,87,enter red colored object the red tray
+436,87,insert red shaped object in red container
+437,87,compartment red shape object in red container
+438,87,place red colored object on the  red tray
+439,87,pick the red colored object to red tray
+440,88,take orange colored object and the red tray
+441,88,place orange shaped object in red container 
+442,88,place the orange colored object on red tray
+443,88,insert  orange colored object in the red tray
+444,88,drop orange colored shaped object  in the red container
+445,89,put yellow shaped object in red container 
+446,89,Drop the  yellow colored object into the red tray.
+447,89,insert the yellow color object and placed the red tray
+448,89,put the yellow colored object into the red tray
+449,89,insert yellow shaped object in red container
+450,90,put pot shaped object in red container 
+451,90,Grasp Chess coin shaped  and receptacle at container in the red color.
+452,90,place vase shaped object into the red tray
+453,90,put the vase shaped object on red tray
+454,90,drop wedge shaped object in red container
+455,91,place the chalice shaped object in red tray
+456,91,take the chalice shaped object and insert to the red tray
+457,91,put the chalice shaped object on red tray
+458,91,drop tulip shaped object in red container 
+459,91,slip tulip shaped object in red container
+460,92,drop the freeform shaped object  in red tray
+461,92,pick the freeform shaped object in red tray
+462,92,drop organic shaped object in red container 
+463,92,place freeform shaped object in red tray
+464,92,space scribble shaped object in red container
+465,93,place the bottle shaped object into the red tray
+466,93,slip cylinder shaped object in red container 
+467,93,put the bottle shaped object in the red tray
+468,93,Drop the bottle shaped object in red tray.
+469,93,slip cylinder shaped object in red side container 
+470,94,insert canoe shaped object in red tray
+471,94,insert the canoe shaped object on the red tray
+472,94,put dugout shape object in red container
+473,94,put the canoe shaped object into the red tray
+474,94,put boat shaped object in red container 
+475,95,insert the cup shaped object on red tray
+476,95,slip cylindrical shaped object in the red container
+477,95,slip cubical shaped object in red container
+478,95,place cup shaped object in red tray
+479,95,put the cup shaped object into the red tray
+480,96,slip concave shaped object in the red container
+481,96,place bottle  shaped object in the red container
+482,96,put bowl shaped object in the red tray
+483,96,insert the bowl shaped object on red tray
+484,96,insert the bowl shaped object in red tray
+485,97,put trapezoidal shaped object in red container
+486,97,drop trapezoidal prism shaped object on the red tray
+487,97,enter the trapezoidal prism shaped object on the red tray
+488,97,drop trapezoidal prism shaped object in red tray
+489,97,place square shaped object in red container 
+490,98,insert cylinder shaped object in red tray
+491,98,pick the cylinder shaped object to red tray
+492,98,Drop the cylinder shaped object into the red tray.
+493,98,space pillar shaped object in red container
+494,98,space bottle shape object in red container
+495,99,drop the round hole shaped object into the red tray
+496,99,insert round shaped object in the red container 
+497,99,Grasp the circular object and placed in the red receptacle.
+498,99,pick the round hole shaped object in red tray
+499,99,slip round  shaped object in the red container
+500,100,insert white colored object in front tray
+501,100,put cup shaped object to front container
+502,100,put the gray and white colored object on front tray
+503,100,put cup shaped object in the front container 
+504,100,place the gray and white colored object the front tray
+505,101,insert brown color shaped object  in the front container 
+506,101,drop brown colored shaped object in the front container
+507,101,enter the brown colored fountain vase inset the front tray
+508,101, take  brown colored object  was the front tray
+509,101,drop brown colored object the front tray
+510,102,drop the blue colored object on front tray
+511,102,drop blue shaped object in front container 
+512,102,drop blue colored object on the front tray
+513,102,slip blue shape object in front container
+514,102,take blue colored object and drop to front tray
+515,103,take the brown colored object on the front tray
+516,103,pick the brown colored object in front tray
+517,103,insert brown shape object in front container
+518,103,drop brown colored object in the  front tray
+519,103,slip brown shape object in front container
+520,104,pick brown colored object to the front tray
+521,104,place the gray and white colored object in front tray
+522,104,insert round shaped object  to front container
+523,104,slip black and white color shaped object in the front container 
+524,104,put chalice shaped object in front tray 
+525,105,insert trapezoidal shaped object in front container
+526,105,drop the brown colored object take the front tray
+527,105,insert brown colored object like the  front tray
+528,105,space trapezoidal prism shaped object in front container
+529,105,place brown colored object t with the front tray
+530,106,slip brown shape object in front container
+531,106,drop brown shaped object in front container
+532,106,put the brown colored object on front tray
+533,106,drop the brown colored object on front tray
+534,106,Put the brown box in the front bin.
+535,107,put the gray colored object on front tray
+536,107,place tulip shaped object in front container
+537,107,insert gray colored object on the front tray
+538,107,place the gray colored object into the front tray
+539,107,slip chalice shaped object in the front container
+540,108,pick the white colored object in front tray
+541,108,drop white colored object into the front tray
+542,108,put white colored object in the front container
+543,108,put cup shaped object to front container
+544,108,drop white colored objected on the front tray
+545,109,slip red shaped object in front container 
+546,109,Move the item item containing a bowl like part to the bin in the front row.
+547,109,put the brown colored object on front tray
+548,109,insert the bowl shaped  object to front tray
+549,109,insert brown colored object in front tray
+550,110,pick the white color object on  front tray
+551,110,put vase shaped object in front container
+552,110,place the white color object to the front tray
+553,110,put vase shaped object in front container
+554,110,pick the white colored object on front tray
+555,111,place  brown colored object on the front tray
+556,111,place the brown colored object the front tray
+557,111,drop vase shaped object in front container
+558,111,put vase shaped object in front container
+559,111,put brown colored object on the front tray
+560,112,pick gray colored objected  was front tray
+561,112,place gray colored object and the front tray
+562,112,square bottle shaped object in front container
+563,112,put the gray colored object in front tray
+564,112,insert gray shaped object in front container 
+565,113,drop white colored object in the front tray  
+566,113,slip white shaped object in front container 
+567,113,slip white colored object in the front container
+568,113,put white colored object on the front tray
+569,113,pick the white colored object in front tray
+570,114,drop brown colored object in front tray
+571,114,slip red colored shaped object in the front container
+572,114,insert red colored shaped object in the front container
+573,114,pick the bottle shaped pepsi bottle object insert front tray
+574,114,drop brown colored object on front tray
+575,115,drop brown colored  object on the front tray
+576,115,drop red shaped object in front container
+577,115,insert brown colored object do the front tray
+578,115,slip red shaped object in front container
+579,115,pick brown colored object and insert in front tray 
+580,116,put orange colored shaped object in the front container
+581,116,Take the orange colored object place the front tray.
+582,116,drop canoe shaped object in front container
+583,116,put the orange colored object into the front tray
+584,116,Place the orange canoe inside the container in the front
+585,117,put orange colored shaped object in the front container
+586,117,put orange colored object into the  front tray
+587,117, insert orange colored object like the  front tray
+588,117,put orange colored shaped object in the front container
+589,117,put the orange colored object into the front tray
+590,118,put blue colored shaped object in the front container
+591,118,place blue colored object on the front tray
+592,118,put blue colored object on front tray
+593,118,pickup shaped object and blue colored insert to front tray
+594,118,put blue colored shaped object in the front container
+595,119,put the brown colored object on front tray
+596,119,drop brown colored shaped object in the front container
+597,119,put the brown colored object on front tray
+598,119,slip vase shaped object in front container
+599,119,insert brown colored object on the front tray
+600,120,put the gray colored object into the front tray
+601,120,place the gray colored object in front tray
+602,120,drop gray colored object on the front tray
+603,120,drop gray colored shaped object  in the front container
+604,120,space gray shape object in front container
+605,121,put brown colored object in front tray
+606,121,put vase shaped object in the front container
+607,121,insert vase shaped object on the front tray
+608,121,put brown shaped object in front container 
+609,121,place brown colored object in front tray
+610,122,insert brown colored shaped object in the front container
+611,122,put brown colored object on the front tray
+612,122,put brown colored object in the front tray 
+613,122,drop brown shaped object in front container 
+614,122,put brown colored object in front tray
+615,123,Take hold of kayak shaped brown object and drop in the front side container
+616,123,place brown shaped object  in front container 
+617,123,drop brown colored object on the front tray
+618,123,Drop the brown colored object to front tray.
+619,123,place brown colored object  was the  front tray  
+620,124,place the gray colored on the front tray
+621,124,place gray color shaped object in the front container 
+622,124,pickup the bowl shaped object and place  the front tray
+623,124,put gray shaped object in front container
+624,124,place gray colored object into the front tray
+625,125,square gray shaped object in front container
+626,125,pick gray colored object to the front tray 
+627,125,place the gray colored object on front tray
+628,125,drop gray colored object and the front tray
+629,125,slip round hole shaped object  in the front container
+630,126,put blue colored shaped object in the front container
+631,126,drop the cup shaped object on the front tray
+632,126,place the blue colored object on the front tray
+633,126,put blue colored shaped object in the front container
+634,126,pick blue colored object on the front tray
+635,127,place the bowl shaped object to the front tray
+636,127,place brown colored object on front tray 
+637,127,space brown colored object and front tray
+638,127,place brown shaped object in front container
+639,127,put  brown shaped object in front container
+640,128,Insert the brown colored object into the front tray.
+641,128,insert shaped brick object in the front container
+642,128,drop brown colored object a front tray
+643,128,slip the brown color to the front tray
+644,128,place square shaped object in front container
+645,129,insert yellow colored shaped object in the front container 
+646,129,slip the yellow colored object to front tray
+647,129,insert yellow colored object the front tray
+648,129,"place yellow colored, object to the front tray"
+649,129,drop yellow colored shaped object in the front container
+650,130,place gray colored object found the front tray
+651,130,drop the gray colored object into the front tray
+652,130,slip gray shaped object in front container
+653,130,pick gray colored object with the front tray
+654,130,insert gray shaped object in front container 
+655,131,insert the blue colored object on front tray
+656,131,place the cylinder shaped object to the front tray
+657,131,put blue colored shaped object in the front container
+658,131,put blue colored object in the front container
+659,131,pick the blue colored object the front tray
+660,132,insert cup shaped object in the front container 
+661,132,Pick the white colored object insert the front tray.
+662,132,place black shape object in front container
+663,132,drop gray colored object in front tray
+664,132,insert the gray and white colored object to front tray
+665,133,stew round shaped object object in the front container
+666,133,drop brown colored object in front tray
+667,133,Pick the brown colored object to drop the front tray.
+668,133,insert brown shaped object in front container 
+669,133,drop the brown colored object the front tray
+670,134,insert blue colored object on the front tray
+671,134,space blue shaped object in front container
+672,134,insert the blue colored object in front tray
+673,134, pick blue colored object that the front tray  
+674,134,slip blue color shaped object in the front container 
+675,135,slip gray shape object in front container
+676,135,insert gray colored object to the front tray
+677,135,insert gray colored shaped object in the front container
+678,135,pick gray colored object was the front tray
+679,135,Take the gray colored object ans slip down the front tray.
+680,136,insert the white colored object on front tray
+681,136,space white shape object in front container
+682,136,Insert the white colored object  to front tray
+683,136,insert the white colored object on front tray
+684,136,drop white shaped object in front container 
+685,137,insert red color shaped object in the front container 
+686,137,pick the brown colored object in front tray
+687,137,Put the brown colored object in front tray
+688,137,put the brown colored object into the front tray
+689,137,drop cup shaped object to front container
+690,138,insert orange colored shaped object in the front container
+691,138,pick orange colored object was the front tray
+692,138,place the orange colored object in front tray
+693,138,place orange colored object in front tray
+694,138,find the orange object and move it to the front bin
+695,139,square yellow shaped object in front container
+696,139,slip yellow colored shaped object in the front container
+697,139,space yellow colored object and front tray
+698,139,drop yellow colored object in front tray
+699,139,put the yellow colored object in front tray
+700,140,insert vase shaped object in front tray
+701,140,Insert the vase shaped object to front tray.
+702,140,insert vase shaped object into the front tray
+703,140,slip brown shaped object in the front container
+704,140,insert cylindrical shaped object in the front container
+705,141,pick the chalice shaped object in front tray
+706,141,place the chalice shaped object in front tray
+707,141,slip cup shaped object in front container
+708,141,square beaker shaped object in front container
+709,141,place the chalice shaped object to  the front tray
+710,142,place asymmetrical shaped object in front container
+711,142,drop freeform shaped object on the front tray
+712,142,place freeform shaped object in front tray
+713,142,pick freeform shaped object is front tray
+714,142,drop asymmetrical shaped object in front container
+715,143,put cylinder shaped object in  front container 
+716,143,take bottle shaped object do the front tray
+717,143,place bottle shaped object to the front tray
+718,143,drop Cylinder shaped object in front container
+719,143,pick bottle shaped object take the front tray  
+720,144,insert the canoe shaped object on front tray
+721,144,insert curved shaped object in front container 
+722,144,insert canoe shaped object into the front tray
+723,144,pick up boat shaped item and place in receptacle in the front
+724,144,slip coracle shaped object in front container
+725,145,put the cup shaped object on front tray
+726,145,slip cubic object in front container
+727,145,slip blue colored shaped object in the front container
+728,145,pick the cup shaped object and insert on front tray
+729,145,put cup shaped object on the front tray
+730,146,Grabbed the basin shaped object and deposited it into the front row bin.
+731,146,place vase shaped object in front container
+732,146,place the bowl shaped object on front tray
+733,146,insert bowl shaped object in the  front tray  
+734,146,space vase shape object in front container
+735,147,place 3D shaped object in the front container
+736,147,take trapezoidal shaped object and insert in front tray
+737,147,drop trapezoidal prism shaped object on front tray
+738,147,square trapezoidal shaped object in front container
+739,147,place trapezoidal prism shaped object on the front tray
+740,148,place bottle shaped object in front container 
+741,148,place bottle shaped object in front container
+742,148,place the cylinder shaped object on front tray
+743,148,insert cylinder shaped object on front tray
+744,148,inset cylinder shaped object on the front tray
+745,149,enter the round shaped object front tray
+746,149,slip round shaped object in front container
+747,149,drop round shaped object in the front container 
+748,149,take round hole shaped object to put in front tray
+749,149,Lift the wide round pot and place it in the front row container.
+750,150,put black and white shaped object in back container 
+751,150, put cup shaped object in the back container
+752,150,Put black and white colored object in the back tray.
+753,150,insert black and white colored object the back tray
+754,150,drop the cup shaped object and place it on the back tray
+755,151,slip brown shape object in back container 
+756,151,drop brown colored object on back tray
+757,151,place brown colored object in back tray
+758,151,drop brown colored object  in the back tray
+759,151,space brown shape object in back container
+760,152,put the blue colored object on back tray
+761,152,slip blue shape object in back container 
+762,152,place blue colored object to the back tray
+763,152,put into the blue colored object at the back tray
+764,152,place blue shaped object in back container
+765,153,put the brown colored object on the back tray
+766,153,place the brown colored object to the back tray
+767,153,insert brown colored object at the  back tray
+768,153,put brown shaped object in back container 
+769,153,put  brown shaped object in back container
+770,154,Drop the black and white colored object to the back tray.
+771,154,Pick the black and white colored object and slip down the back tray.
+772,154,insert chalice shaped object in back container
+773,154,drop black and white colored object on the back tray
+774,154,slip black and white shaped object in back container 
+775,155,place the brown colored object at the back tray
+776,155,insert the trapezoidal prism shaped object on the back tray
+777,155,put the brown colored object the back tray
+778,155,insert trapezoidal prism shaped object in back container
+779,155,slip trapezoidal shaped object in back container
+780,156,insert the brown color object to the back tray
+781,156,droop trapezoidal shaped object in back container
+782,156,Drop the brown colored object in back tray.
+783,156,pick brown colored object and placed the back tray
+784,156,drop trapezoidal shaped object in back container
+785,157,insert gray colored  object to back tray
+786,157,put gray shaped object in back container 
+787,157,drop gray shaped object in back container
+788,157,pick gray colored object on the back tray
+789,157,drop the gray colored object to the back tray
+790,158,place white colored objected on the back tray
+791,158,put white colored object on to black tray 
+792,158,insert white shaped object in back container 
+793,158,drop the freeform shaped on the back tray
+794,158,Pick up white cylinder and release it in the receptacle at the back
+795,159,take the bowl shaped object and slip to back tray
+796,159,insert the brown colored object to the back tray
+797,159,put brown colored  object  at the   back tray
+798,159,place red colored object in the back container 
+799,159,drop red shaped object in back container 
+800,160,slip white shape object in back container
+801,160,slip vase shaped container in the  back container 
+802,160,put white colored object in the back tray
+803,160,put the white colored object into the back tray
+804,160,insert white colored object like the back tray
+805,161,insert brown shaped object in back container
+806,161,space pot shaped object in back container
+807,161,drop brown colored object at the back tray
+808,161,place the brown colored object in back tray
+809,161,place the brown colored object on back tray
+810,162,place gray colored object on the back tray
+811,162,pick the gray colored object on back tray
+812,162,slip cylinder shaped object  in the black container
+813,162,place gray colored object in back tray
+814,162,space gray shape object in back container
+815,163,place white colored shaped object in the back container
+816,163,introduce white colored object on back tray
+817,163,pick white colored object in back tray
+818,163,insert white shaped object in back container
+819,163,insert the white colored object in back tray
+820,164,pick brown colored object in the  back tray
+821,164,drop red colored shaped object in the back container
+822,164,slip red colored shaped object in the back container
+823,164,pick the brown colored object the back tray
+824,164,insert bottle shaped object on back tray
+825,165,pick the brown colored object in back tray
+826,165,take brown colored object do the back tray
+827,165,pick the freeform shaped object and drop in the back tray
+828,165,space red shaped object in black container
+829,165,insert red colored shaped object in the back container
+830,166,place orange shape object in back container
+831,166,Insert the orange colored object in the  back tray.
+832,166,take orange colored object and put in back tray
+833,166,insert orange shaped object in back container 
+834,166,insert orange colored object to back tray
+835,167,square vase shaped object in back container
+836,167,insert orange colored object on the back tray
+837,167,slip  orange shaped object in back container
+838,167,Put the orange colored object in back tray
+839,167,place orange colored object in back tray
+840,168,place blue shaped object in back container 
+841,168,Pick the blue colored object place the back tray.
+842,168,insert the blue colored object on back tray
+843,168,Place the blue mug into the container in the back row
+844,168,put  blue colored object into the back tray
+845,169,square vase shaped object in back container
+846,169,insert the brown color object to  back tray
+847,169,drop brown color object in the back tray 
+848,169,take  brown colored object that the  back tray
+849,169,drop vase shaped object in back container
+850,170,pick gray colored object was back tray
+851,170,place gray colored object do the back tray
+852,170,put bottle shaped object in back container
+853,170,place cylinder shaped object in back container
+854,170,put gray colored object on back tray
+855,171,put brown shape object in back container
+856,171,put brown shaped object in back container 
+857,171,put the brown colored object into the back tray
+858,171,slip the vase shape object and insert to back tray
+859,171,pick the brown colored object and insert in back tray
+860,172,insert brown shape object in back container
+861,172,place brown shaped object in back container 
+862,172,drop the brown colored object in back tray
+863,172,insert brown colored object was the back tray
+864,172,drop the brown colored object on back tray
+865,173,insert brown colored object to the back tray
+866,173,insert brown shaped object in black container
+867,173,place brown colored object on the back tray
+868,173,Insert the brown colored object into back tray.
+869,173,drop brown colored shaped object in the back container
+870,174,insert gray colored object  was  back tray
+871,174,insert gray shaped object in back container
+872,174,drop the gray color object on the back tray
+873,174,insert gray colored object was the back tray  
+874,174,place bowl shaped object  in the back container
+875,175,slip gray shaped object in back container 
+876,175,insert gray shaped object in back container
+877,175,insert gray colored object on the back tray
+878,175,pick the gray colored object  insert the back tray
+879,175,pick the gray colored object in back tray
+880,176,square cubic shaped object in back container
+881,176,insert the blue colored object on back tray
+882,176,slip blue colored shaped object in the back container
+883,176,drop the blue colored object in back tray
+884,176,pick the blue colored object in back tray
+885,177,insert brown colored object on back tray 
+886,177,put brown shaped object in the back container 
+887,177,drop  brown colored object in the back tray
+888,177,pick the brown colored object in back tray
+889,177,put brown colored shaped object in the back container
+890,178,pick the brown colored object the back tray
+891,178,Put the brown colored object to the back tray.
+892,178,put brown shaped object in back container 
+893,178,put brown shape object in back container
+894,178,place the brown colored object the back tray
+895,179,place yellow shaped object in back container
+896,179,insert yellow shaped object in back container
+897,179,insert the yellow colored object to back tray
+898,179,insert the yellow colored object in back tray
+899,179,place yellow colored object in back tray
+900,180,Take the gray colored object and place the back tray.
+901,180,put gray colored object into the back tray
+902,180,grasp round gray item and set in back bin
+903,180,put curved shaped object in back container
+904,180,place gray shaped object in back container 
+905,181,put blue shaped object in back container
+906,181,drop the blue colored object in back tray
+907,181,drop blue colored object the back tray
+908,181,place the blue colored object the back tray
+909,181,put blue shaped object in back container 
+910,182,slip black colored shaped object in the back container
+911,182,Tack roll and round shaped object and throw it in back side container.
+912,182,drop brown colored object and the back tray
+913,182,pick gray colored object and insert on back tray
+914,182,place black  colored shaped object in the back container
+915,183,put brown shape object in back container
+916,183,put brown shaped object in back container 
+917,183,drop the brown colored object the back tray
+918,183,Placed the cocoa-colored item inside the bin in the back row. 
+919,183,place the brown color object in the back tray
+920,184,place blue colored object in back tray
+921,184,insert blue shape object in back container
+922,184,drop the blue colored object to back tray
+923,184,place the blue colored object to the back tray
+924,184,place blue shaped object in back container 
+925,185,insert gray shaped object in back container 
+926,185,slip gray colored shaped object in the back container
+927,185,place gray colored object in back tray
+928,185,insert gray colored object to back tray
+929,185,place gray colored object in the  back tray  
+930,186,drop white shaped object in back container
+931,186,place white shaped object in back container 
+932,186,drop white colored object into black tray
+933,186, put white colored object into the back tray
+934,186,drop the white colored object at the back tray
+935,187,space red shaped object in back container
+936,187,place brown colored object with the back tray
+937,187,slip red shape object in back container
+938,187,drop brown colored object and the back tray
+939,187,Put the brown colored object to the back tray.
+940,188,slip vase shape object  in the back container
+941,188,insert orange colored object in the  back tray  
+942,188,drop vase shaped object to back container
+943,188,drop the orange colored object the back tray
+944,188,insert orange colored object to back tray
+945,189,put yellow colored object on the back tray
+946,189,Drop the yellow colored object into the back tray
+947,189,place yellow shape object in back container 
+948,189,put yellow colored object into the back tray
+949,189,slip yellow shaped object in back container
+950,190,place bowl shape object in back container
+951,190,pick the vase shaped object in back tray
+952,190,pick the vase shaped object in back tray
+953,190,insert pot shaped object in back container 
+954,190,drop the vase shaped object on back tray
+955,191,slip tulip shaped object in back container 
+956,191,place blue colored shaped object in the back container
+957,191,put the chalice shaped object on back tray
+958,191,put chalice shaped object in back tray
+959,191,place the chalice shaped object in back tray
+960,192,drop freeform shaped object on the back tray
+961,192,insert asymmetrical shaped object in back container
+962,192,place asymmetrical shaped object in back container
+963,192,pick freeform shaped object the back tray
+964,192,pick freeform shaped object the back tray
+965,193,place cylinder shape object in back container
+966,193,place bottle shaped object in the  back tray
+967,193,place bottle shaped object with the back tray
+968,193,Insert the bottle shaped object into the back tray.
+969,193,place cylinder shape object in back container
+970,194,slip domed shaped object in the back container
+971,194,put the kyack in the back receptical
+972,194,insert canoe shaped object on the back tray
+973,194,insert canoe shaped object on  back tray
+974,194,drop canoe shaped object the back tray
+975,195,put cup shaped object onto back tray
+976,195,drop cup shaped object into the back tray
+977,195,slip blue colored object to back container
+978,195,Put the cup shaped object in back tray
+979,195,drop blue color shaped object in the back container 
+980,196,drop bowl shaped object in the  back tray
+981,196,place curved shaped object in back container 
+982,196,place the bowl shaped object in back tray
+983,196,Relocate the flower pot to the rear bin.
+984,196,insert vase shape object in back container
+985,197,slip square shaped object in back container 
+986,197,place trapezoidal prism shaped object on the back tray
+987,197,pick the trapezoidal prism shaped object the back tray
+988,197,insert trapezoidal prism shaped object the back tray
+989,197,put square shaped object in back container
+990,198,place cylinder shaped object at the back tray
+991,198,put bottle shaped object in back container 
+992,198,put bottle shaped object in back container 
+993,198,pick cylinder object and placed to the back tray
+994,198,put the cylinder shaped object in back tray
+995,199,pick the round hole shaped object the back tray
+996,199,take  round hole shaped object with the back tray
+997,199,place the round hole shaped object to the back tray
+998,199,put round shape object in back container
+999,199,put curved shape object in black container
+1000,200,insert cup shaped object was left tray
+1001,200,put gray and white colored object on the left tray
+1002,200,place black shape object in left container
+1003,200,put the gray and white colored object in left tray
+1004,200,place black shape object in left container
+1005,201,insert vase shaped object in left container
+1006,201,place brown colored object on the left tray
+1007,201,drop brown colored object in left tray
+1008,201,put vase shaped object in left container
+1009,201,insert brown shaped object  in the left container 
+1010,202,place blue colored shaped object in the left container
+1011,202,drop the blue colored object on left tray
+1012,202,Insert the  blue colored object place left tray
+1013,202,place blue colored shaped object in the left container
+1014,202,insert  blue colored object on the left tray
+1015,203,insert the brown colored object  on the left tray 
+1016,203,grab hexagon shaped object and put in left bin
+1017,203,pick the brown colored object and drop to left tray
+1018,203,drop brown shaped object in left container 
+1019,203,insert bowl shaped object in the left container
+1020,204,place black and white shaped object in left container
+1021,204,drop gray colored object in left tray
+1022,204,Insert the chalice shaped smushed dumbbell object place left tray
+1023,204,insert black and white shaped object in left container 
+1024,204,pick the gray and white colored object in left tray
+1025,205,slip brown shaped object in left container 
+1026,205,put brown colored object in the left tray
+1027,205,Drop the brown colored object into the left tray.
+1028,205,slip brown shaped object in left container 
+1029,205,move the trapezoidal shaped object to the tray on the left
+1030,206,drop brown colored object  in the left tray 
+1031,206,drop brown shaped object in the left container 
+1032,206,drop the brown colored object on left tray
+1033,206,pick brown colored object to the left tray
+1034,206,drop brown shaped object in left container 
+1035,207,Collect gray cup and leave in left box
+1036,207,put the gray colored object on left tray
+1037,207,pick  gray colored object was the  left tray
+1038,207,slip gray shaped object in left container 
+1039,207,put gray colored object in the left tray 
+1040,208,pick the white colored object place left tray
+1041,208,enter  white colored object on the left tray
+1042,208,place white color shaped object in the left container 
+1043,208,place white shaped object in left container
+1044,208,drop white colored object in left tray
+1045,209,space red shaped object in left container
+1046,209,drop the bowl shape object on the left tray
+1047,209,put brown colored object is the  left tray
+1048,209,drop the bowl shaped object and place to the left tray
+1049,209,drop red shaped object in left container 
+1050,210,insert white colored shaped object in the left container
+1051,210,place the white colored object the left tray
+1052,210,place white colored object in left tray
+1053,210,drop white colored object in the left container
+1054,210,drop white colored object on left tray
+1055,211,slip brown shaped object in left container 
+1056,211,take brown colored object and the left tray
+1057,211,pick the brown colored object and to placed the left tray
+1058,211,insert brown color shaped object  in the left container 
+1059,211,insert brown colored object on left tray 
+1060,212,place gray colored object on the left tray
+1061,212,drop gray colored shaped object in the left container
+1062,212,place the gray colored object to the left tray
+1063,212,insert cylinder shaped object in the left container
+1064,212,drop gray colored object to the left tray
+1065,213,place the white color object on the left tray
+1066,213,insert white colored object on the left tray
+1067,213,insert white colored object in left tray
+1068,213,put white shaped object in left container
+1069,213,put white colored shaped object in the left container
+1070,214,Grab and drop the red bottled-shaped flask in the left container
+1071,214,pick the brown colored object on the left tray
+1072,214,pick up bottle shaped object on left tray
+1073,214,drop brown colored object in left tray
+1074,214,put red shaped object in left container 
+1075,215,put tongue chair shaped object in left container
+1076,215,insert the freeform shaped tongue chair object to left tray
+1077,215,place the freeform shaped object to the left tray
+1078,215,put red shaped object in left container
+1079,215,place is brown colored object is left tray
+1080,216,insert  orange shaped object in left container 
+1081,216,insert the orange colored object on left tray
+1082,216,insert orange colored object the left tray
+1083,216,Put the orange colored object in the left tray.
+1084,216,slip orange color shaped object in the left container 
+1085,217,pick orange colored object to the left tray
+1086,217,drop the orange colored object in left tray
+1087,217,Pick vase shaped object and receptable at left container.
+1088,217,put vase shaped object in left container
+1089,217,put orange shaped object in left container
+1090,218,insert the blue colored object on left tray
+1091,218,put the blue colored object into the left tray
+1092,218,put the blue colored object into the left tray
+1093,218,slip blue shaped object in left container 
+1094,218,slip blue shaped object in left container 
+1095,219,pick brown colored object the left tray
+1096,219,insert the brown colored object on left tray
+1097,219,insert vase shaped object in left container
+1098,219,put brown colored object with the left tray
+1099,219,slip brown shaped object in lef6t container 
+1100,220,put the gray colored object in left tray
+1101,220,put gray shaped object in left container
+1102,220,drop gray shaped object in left container
+1103,220,pick gray colored object was the  left tray
+1104,220,pick the bottle shaped  object insert left tray
+1105,221,place brown shaped object in left container 
+1106,221,space brown shape object in left container
+1107,221,drop brown colored object at the left tray
+1108,221,pick the brown colored object the left tray
+1109,221,place brown colored objected   to the left tray 
+1110,222,drop brown colored object on the left tray
+1111,222,drop brown shaped object in left container 
+1112,222,space trapezoidal prism shaped object in left container
+1113,222,pick the brown colored object in left tray
+1114,222,pick brown colored object on left tray
+1115,223,place brown color shaped object in the left container 
+1116,223,insert brown colored objected on the left tray
+1117,223,put brown colored object at the left tray  
+1118,223,drop the brown colored object on left tray
+1119,223,place brown shaped object in left container 
+1120,224,insert gray colored shaped container in the left container
+1121,224,drop gray shaped object in left container
+1122,224,place the gray colored object to the left tray
+1123,224,drop the gray colored object in left tray
+1124,224,drop the gray colored object in left tray
+1125,225,drop gray colored object on left tray
+1126,225,take gray colored object at the left tray
+1127,225,place gray colored object in left tray
+1128,225, drop gray colored shaped object in the left container
+1129,225,drop gray shaped object in left container 
+1130,226,slip blue shaped object in left container 
+1131,226,place cup shaped object  in the left container
+1132,226,Put the blue colored object in left tray.
+1133,226,pick the blue colored object on left tray
+1134,226,drop blue colored object on left tray
+1135,227,insert bowl shaped object  in the left container
+1136,227,insert brown colored object was the left tray 
+1137,227,insert  brown colored object to the left tray
+1138,227,pick the brown colored object in left tray
+1139,227,place bowl shaped object in the left container 
+1140,228,slip brown shaped object in left container 
+1141,228,drop brown colored object like the  left tray
+1142,228,place brown colored object on the  left tray
+1143,228,slip brown colored shaped object in the left container
+1144,228,place the brown colored object the left tray
+1145,229,insert the yellow colored object in left tray
+1146,229,insert the yellow colored object in left tray
+1147,229,insert yellow shaped object in left container 
+1148,229,slip yellow shaped object in left container 
+1149,229,drop yellow colored object on left tray
+1150,230,pick the gray colored object on left tray
+1151,230,drop gray shaped object in left container
+1152,230,slip gray shaped object in left container 
+1153,230,put  gray colored object with the left tray
+1154,230,insert the gray colored object to left tray
+1155,231,space blue shape object in left container
+1156,231,put the blue color object into the left tray
+1157,231,space blue shape object in left container
+1158,231,put blue colored object in left tray
+1159,231,put the blue colored object into the left tray
+1160,232,put gray colored object in the left tray
+1161,232,insert black shape object in left container
+1162,232,put gray colored object in left tray
+1163,232,insert the gray color object to left tray
+1164,232,insert black and white shaped object in left container 
+1165,233,drop brown colored shaped object  in the left container
+1166,233,put brown shaped object in left container
+1167,233,put the brown colored object in left tray
+1168,233,put brown colored object into left tray
+1169,233,put brown colored object into the left tray
+1170,234,insert blue shape object in left container
+1171,234,insert blue shaped object in left container
+1172,234,place blue colored object with the  left tray
+1173,234,insert blue colored object on the left tray
+1174,234,drop blue colored object in the left tray
+1175,235,take the gray colored object and slip to left tray
+1176,235, grab gray shaped object in left side container 
+1177,235,place gray colored object would the left tray
+1178,235,place gray shaped  object in left container 
+1179,235,pick  gray colored object for the  left tray
+1180,236,drop white shaped object in left container 
+1181,236,Move the white segmented object to the left receptacle.
+1182,236,place the white color object to the left tray
+1183,236,place white color object to left tray 
+1184,236,slip white shape object in left container
+1185,237,drop the brown colored object in the left tray
+1186,237,put the brown colored object in left tray
+1187,237,slip red shape object in left container
+1188,237,slip red shape object in left container
+1189,237,insert brown colored object with the left tray
+1190,238,drop orange colored object on left tray 
+1191,238,slip orange shaped object in left container 
+1192,238,pick the orange colored object on left tray
+1193,238,insert orange shaped object in left container
+1194,238,take orange colored object like the  left tray
+1195,239,pick the yellow colored object and drop into the left tray
+1196,239,slip yellow colored shaped object in the left container
+1197,239,place dumbbell shaped object  in the left container 
+1198,239,Migrate the yellow lamp shaped object toward the left container.
+1199,239,take the yellow colored object and to insert to left tray
+1200,240,insert pot shaped object in left container 
+1201,240,put vase shaped object on the left tray
+1202,240,place cylindrical shaped object in left container
+1203,240,drop vase shaped object in left tray
+1204,240,Insert the vase shaped object place left tray
+1205,241,drop chalice shaped object in the left tray
+1206,241,drop  chalice shaped object on the left tray
+1207,241,place beaker shaped object in left container
+1208,241,place cup shaped object in left container
+1209,241,Take the chalice shaped object and slip the left tray.
+1210,242,place the freeform shaped object the left tray
+1211,242,slip brown color shaped  object in the left container 
+1212,242,put the freeform shaped object into the left tray
+1213,242,drop freeform shaped object on left left tray
+1214,242,insert uneven shaped object in the left container
+1215,243,slip narrow-necked shaped object in the left container
+1216,243, drop bottle shaped object route the   left tray
+1217,243,put cylinder shaped object in left container
+1218,243,drop the bottle shaped object in left tray
+1219,243,place the bottle shaped object in left tray
+1220,244,put brown colored shaped object in the left container
+1221,244,place canoe shaped object in left tray
+1222,244,put gray color shaped object in the left container
+1223,244,put canoe shaped object with the left tray
+1224,244,put canoe shaped object the left tray
+1225,245,pick the cup shaped object in left tray
+1226,245,place cup shaped object in left tray
+1227,245,put  cup shaped object  in to the left tray
+1228,245,insert curved shaped object in left container 
+1229,245,space bowl shaped object in left container
+1230,246,Move the concaved dish and drop it inside the left side receptacle.
+1231,246,drop bowl shaped object on left tray
+1232,246,place container shaped object in left container
+1233,246,put bowl shaped object on left tray 
+1234,246,slip curved shaped object in left  container
+1235,247,insert Frustum shaped object to left container 
+1236,247,slip square shape object in left container
+1237,247,place trapezoidal prism object and the left tray 
+1238,247,Insert the trapezoidal prism shaped object to left tray.
+1239,247,place the trapezoidal prism shaped object in the left tray
+1240,248,place bottle shaped object in left container 
+1241,248,place dimensional shaped object in the left container
+1242,248,insert the cylinder shaped object on left tray
+1243,248,insert cylinder shaped object on the left tray
+1244,248,insert the cylinder shaped object on left tray
+1245,249,place curved shaped object in left container 
+1246,249,insert the round hole shaped object on left tray
+1247,249,put solid torus shaped object in left container
+1248,249,insert the round hole shaped object to left tray
+1249,249,insert round hole shaped object to the left tray
+1250,250,pick the cup shaped conic cup  object to right tray
+1251,250,insert gray colored object in right tray
+1252,250,put black and white shaped object in right container 
+1253,250,insert brown colored object with the right tray
+1254,250,put cup shaped object in the right container
+1255,251,place brown colored shaped object in the right container
+1256,251,put brown colored object into right tray
+1257,251,slip vase shaped object in right container
+1258,251,drop brown colored object on the right tray
+1259,251,put the brown colored object on right tray
+1260,252,drop blue colored object on the right tray
+1261,252,slip blue colored shaped object  in the right container 
+1262,252,slip blue shape object in right container
+1263,252,put blue colored object on the right tray
+1264,252,pick the blue colored insert right tray
+1265,253,slip brown colored shaped object in the right container 
+1266,253,place  brown colored object into the right tray
+1267,253,insert the brown colored object on right tray
+1268,253,drop brown colored shaped object in the right container
+1269,253,place brown colored object in right tray
+1270,254,pick the gray and white colored object in right tray
+1271,254,insert chalice shaped smushed dumbbell object to right tray
+1272,254,place black colored shaped object in the right container
+1273,254,place black colored shaped object in the right container
+1274,254,drop the gray and white colored object in right tray
+1275,255,place the brown colored object the right tray
+1276,255,take  brown colored object and the right tray
+1277,255,insert brown colored object on right tray
+1278,255,drop brown shaped object in right container 
+1279,255,drop brown shaped object in right container 
+1280,256,slip brown shaped object in right container 
+1281,256,down trapezoidal prism shaped object in the right container
+1282,256,put the brown colored object into the right tray
+1283,256,put the brown colored object into the right tray
+1284,256,Insert the brown colored object place the right tray.
+1285,257,slip chalice shaped object in right container
+1286,257,insert gray colored object in right tray
+1287,257,slip gray colored shaped object in the right container
+1288,257,take gray colored object is the  right tray  
+1289,257,slip gray shaped object in right container 
+1290,258,put the white colored object in right tray
+1291,258,insert white shaped object in right container 
+1292,258,place white shaped object in right container
+1293,258,drop the white colored object the right tray
+1294,258,drop white colored object is right tray
+1295,259,drop brown colored object take the right tray
+1296,259,insert brown colored object on right tray 
+1297,259,drop red shaped object in right container 
+1298,259,drop red colored shaped object in the right container
+1299,259,put brown colored object on the right tray
+1300,260,drop white colored object into the right tray
+1301,260,drop the vase shaped object on the right tray
+1302,260,place white colored object in right tray
+1303,260,insert white shaped object in right container 
+1304,260,slip white colored shaped object in the right container
+1305,261,drop the brown colored object into right tray
+1306,261,pick brown colored object and placed the right tray
+1307,261,place brown color shaped object in the right container 
+1308,261,Pick the brown colored object and insert the right tray.
+1309,261,space brown shape object in right container
+1310,262,put gray colored object in the right container
+1311,262,insert the gray colored object on right tray
+1312,262,put gray shaped object in right container
+1313,262,place gray colored object on the right tray
+1314,262,put cylinder shaped objected on the right tray
+1315,263,pick the bowl shaped object and to place on the right tray
+1316,263,insert white colored objected  was the right tray
+1317,263,place bowl shaped object in the right container
+1318,263,insert white colored object to right container
+1319,263,Drop the white colored object into the right tray.
+1320,264,drop the bottle shaped object into the right tray
+1321,264,pick brown colored object  that the  right tray
+1322,264,drop red colored object in the right container
+1323,264,drop the brown colored object was the right tray
+1324,264,place red shaped object in right container 
+1325,265,put  freeform shaped tongue chair object  to the right tray 
+1326,265,put brown colored object on the right tray
+1327,265,place red colored object to right container
+1328,265,insert freeform shaped object in the right container
+1329,265,put brown colored object on the right tray
+1330,266,place the orange colored object to the right tray
+1331,266,put orange shape container in right container
+1332,266,pick orange colored object for the right tray
+1333,266,pick the orange colored object in right tray
+1334,266,drop orange shaped object in right container
+1335,267,insert orange colored shaped object in the right container
+1336,267,inset the orange colored object in right tray
+1337,267,slip orange color shaped  in the right container 
+1338,267,put the orange colored object in right tray
+1339,267,insert orange colored object in right tray
+1340,268,insert blue colored object on the right tray
+1341,268,slip dice shaped object in right container
+1342,268,put the cup shaped object into the right tray
+1343,268,space blue shaped object in right container
+1344,268,insert blue colored object on right tray 
+1345,269,put brown colored object into the right tray
+1346,269,insert brown colored object that the right tray
+1347,269,put brown colored object into the right tray
+1348,269,insert vase shaped object  in the right container 
+1349,269,slip brown shaped object in right container 
+1350,270,pick gray colored object to the right tray
+1351,270,place cylinder shaped object in right container
+1352,270,place gray colored object  was the right tray
+1353,270,pick up the light gray jug shaped object and put it in the tray on the right
+1354,270,place bottle shaped object  in the right container
+1355,271,place pot shaped object in right container 
+1356,271,put the vase shaped  object on the right tray
+1357,271,insert brown colored object in right tray
+1358,271,place the brown colored object in right tray
+1359,271,drop brown shaped object in right container
+1360,272,place trapezoidal prism shaped object in the right container
+1361,272,slip trapezoidal shaped object in right container
+1362,272,place the brown color object to the right tray
+1363,272,pick the  brown colored object insert right tray
+1364,272,drop brown colored object in the  right tray
+1365,273,drop brown colored object like the right tray
+1366,273,drop canoe shaped object in the right tray
+1367,273,drop brown color shaped object in the right container 
+1368,273,drop brown colored shaped object in the right container
+1369,273,put brown colored object on the right tray
+1370,274,pick the gray colored object place right tray
+1371,274,insert gray colored object  in the right container
+1372,274,space kidney shaped object in right container
+1373,274,pick gray colored object in right tray
+1374,274,insert gray colored object at the right tray 
+1375,275,drop gray colored object in the right container
+1376,275,place gray colored shaped object in the right container
+1377,275,Pick the gray colored object insert right tray.
+1378,275,place the round hole shaped toroid to the right tray
+1379,275,pick the gray colored object route the right tray 
+1380,276,put cubic shaped object in right container
+1381,276,place blue shaped object in right container 
+1382,276,drop the  blue colored object into right tray
+1383,276,pick the blue colored object and drop to right tray
+1384,276,place blue colored object route the right tray
+1385,277,place brown colored shaped object in the right container  
+1386,277,insert bamboo lid shaped object in the right container
+1387,277,put brown colored object the right tray
+1388,277,pick the brown colored object in right tray
+1389,277,put  brown colored object in the right tray
+1390,278,insert brown colored object in right tray
+1391,278,place brown colored object in right tray
+1392,278,drop brown shaped object in right container 
+1393,278,place  brown shaped object in right side container 
+1394,278,pick brown colored object and insert it in right tray
+1395,279,put yellow colored object on right tray
+1396,279,pick the yellow colored object in right tray
+1397,279,insert yellow colored object to the right tray
+1398,279,drop yellow colored shaped object in the right container
+1399,279,slip yellow colored object in the right container
+1400,280,drop gray colored shaped object in the right container
+1401,280,slip gray colored shaped object in the right container
+1402,280,Pick the  gray colored object to the right tray.
+1403,280,put the gray colored object in right tray
+1404,280,place gray colored object in right tray
+1405,281,put the blue colored object into the right tray
+1406,281,space blue shaped object in right container
+1407,281,square cylinder shaped object in right container
+1408,281,put blue colored object on right tray
+1409,281,pick the blue colored object the right tray
+1410,282,pick white colored object was the right tray
+1411,282,drop black and white shaped object in right container 
+1412,282,place the gray colored object on the right tray
+1413,282,drop black and white shaped object in right container 
+1414,282,insert the gray and white colored object on right tray
+1415,283,drop the brown color object ton the right tray
+1416,283,place brown shaped object in right container
+1417,283,insert brown colored shaped object in the right container
+1418,283,place brown colored object in right tray
+1419,283,put brown colored object on the right tray
+1420,284,drop blue colored shaped object in the right container
+1421,284,insert blue colored object to the right tray
+1422,284,insert blue colored object on the  right tray
+1423,284,slip blue colored shaped object in the right container
+1424,284,place blue colored object on the right tray
+1425,285,place the gray color object to the right tray
+1426,285,drop  gray colored object do the right tray
+1427,285,put gray shaped object in right container 
+1428,285,put gray shaped object in right container 
+1429,285,place gray colored object in right tray
+1430,286,put  the white colored object on to right tray
+1431,286,Drop the white colored object into the right tray
+1432,286,put white colored object on right tray
+1433,286,place white shaped object in right container 
+1434,286,insert white colored shaped object in the right container
+1435,287,place red shaped object in right container 
+1436,287,drop the brown colored object in to right tray 
+1437,287,slip the orange colored object on right tray
+1438,287,put brown colored object into the right tray
+1439,287,place red shaped object in right container 
+1440,288,place the orange colored object the right tray
+1441,288,slip the orange colored object on the right tray
+1442,288,place orange colored shaped object in the right container
+1443,288,take the orange colored object and drop on right tray
+1444,288,drop orange shaped object in right container 
+1445,289,insert yellow shaped object in the right container 
+1446,289, place  yellow colored object on the right tray
+1447,289,put the yellow colored object into the right tray
+1448,289,place yellow shape object in right container
+1449,289,pick the yellow colored object the right tray
+1450,290,put vase shaped object on the right tray
+1451,290,put vase shaped object on the right tray
+1452,290,drop the vase shaped object into right tray
+1453,290,insert pot shaped object in right container 
+1454,290,insert pot shaped object in right container 
+1455,291,square beaker shaped object in right container
+1456,291,slip tulip shaped object in right container
+1457,291,put chalice shaped object on the right tray
+1458,291,put the chalice shaped object in the right tray
+1459,291,insert  chalice shaped object with the right tray
+1460,292,place freeform shaped object to the right tray
+1461,292,drop the freeform shaped object the right tray
+1462,292,put organic shaped object in right container 
+1463,292,pick freeform shaped object with the right tray
+1464,292,Put the object with many ridges in the bin on the right side
+1465,293,put bottle shaped object into right tray
+1466,293,put the bottle shaped object into the right tray
+1467,293,drop cylinder shaped object in right container 
+1468,293,slip cylinder shaped object in right container
+1469,293,drop bottle shaped object and the right tray
+1470,294,place dugout shape object in right container
+1471,294,drop canoe shaped object on the right tray
+1472,294,place canoe shaped object in right tray
+1473,294,slip tulip shaped object in right container
+1474,294,slip the canoe shaped object in the right tray
+1475,295,drop cylindrical shaped object in the right container
+1476,295,take cup shaped object was the right tray
+1477,295,insert the cup shape object to right tray 
+1478,295,insert cup shaped object on the  right tray  
+1479,295,insert curved shaped object in right container 
+1480,296,drop the bowl shaped object in right tray
+1481,296,drop the bowl shaped object on the right tray
+1482,296,drop the bowl shaped object the right tray
+1483,296,place concave shaped object in right container
+1484,296,insert concave shaped object in right container
+1485,297, drop trapezoidal prism shaped object like the right tray
+1486,297,put 3D shape object in the right container
+1487,297,put trapezoidal shaped object in right container
+1488,297,put trapezoidal prism shaped object into right tray
+1489,297,put the trapezoidal prism shaped object on right tray
+1490,298,put cylinder shaped object on the right tray
+1491,298,put the cylinder shaped object in right tray
+1492,298,place bottle shaped object in right container
+1493,298,PUT cylinder shaped object  into the  right tray
+1494,298,place bottle shaped object in right container
+1495,299,slip round shaped object in the right container  
+1496,299,pickup round hole shaped object insert to the right tray
+1497,299,drop round hole shaped object on the right tray
+1498,299,put round hole shaped object in right tray
+1499,299,drop round shaped object in right container 

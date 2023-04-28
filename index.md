@@ -22,6 +22,9 @@ UT Austin<br>
 <image src="files/overview_fig_v2.1.jpg" />
 
 {: .update }
+> <strong>[Human Language Dataset](human_language) released! (2023 Apr 28)</strong>
+
+{: .update }
 > <strong>[Environment Codebase](https://github.com/Alacarter/roboverse-deltaco) released! (2023 Apr 1)</strong>
 
 {: .update }
