@@ -6,7 +6,7 @@ url: https://deltaco-robot.github.io
 
 aux_links:
   PDF: https://openreview.net/pdf?id=4u42KCQxCn8
-  Poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59614.png?t=1669332922.2491133
+  Poster: files/iclr_poster_v1_1.pdf
   Env Code: https://github.com/Alacarter/roboverse-deltaco
   Training Code (coming soon): /
 

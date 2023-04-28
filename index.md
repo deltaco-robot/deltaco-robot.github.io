@@ -6,7 +6,7 @@ permalink: /
 ---
 <center><h1>Using Both Demonstrations and Language Instructions to Efficiently Learn Robotic Tasks</h1></center>
 <!-- <center><h3>Multitask robotic policies jointly conditioned on both demonstrations and language</h3></center> -->
-<center>To Appear at ICLR'23</center>
+<center>ICLR'23</center>
 {: .fs-5 .fw-300 }
 
 <center>
