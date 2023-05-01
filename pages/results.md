@@ -18,7 +18,7 @@ permalink: results
         <td><a href="files/table1_plot_1_split_1.png"><img width="100%" src="files/table1_plot_1_split_1.png" /></a></td>
     </tr>
     <tr>
-        <td>Training a demo encoder from scratch and using pretrained DistilBERT as the language encoder. <strong>DeL-TaCo (red) doubles the generalization performance of SOTA prior works</strong> BC-Z (Jang, et al) and MCIL (Lynch, et al). DeL-TaCo also achieves <strong>better generalization performance than policies conditioned on language-only (blue) or demonstration-only (orange)</strong>, getting closer to the performance of the one-hot oracle policy which was given access to all of the test tasks during training.</td>
+        <td>Training a demo encoder from scratch and using pretrained DistilBERT as the language encoder. <strong>DeL-TaCo (red) achieves 2-3x the generalization performance of SOTA prior works</strong> BC-Z (Jang, et al) and MCIL (Lynch, et al). DeL-TaCo also achieves <strong>better generalization performance than policies conditioned on language-only (blue) or demonstration-only (orange)</strong>, getting closer to the performance of the one-hot oracle policy which was given access to all of the test tasks during training.</td>
         <td>Using pretrained CLIP for the language and demonstration encoder, we still see value in task-conditioning with both demonstrations and language with DeL-TaCo (red) than by learning novel tasks with language alone (blue) or demonstration alone (orange).</td>
     </tr>
 </table>
@@ -31,7 +31,7 @@ permalink: results
 # Generalization to Novel Colors and Shapes
 <center><a href="files/table2-3_plot_1_split_0.png"><img width="60%" src="files/table2-3_plot_1_split_0.png" /></a></center>
 
-When trained on all 32 objects and evaluated on only the test colors and shapes, DeL-TaCo outperforms language-only and demonstration-only policies by a wider <strong>~9% margin</strong>. Here, we train the demonstration encoder from scratch and use DistilBERT as the language encoder.
+When trained on all 32 objects and evaluated on only the test colors and shapes, DeL-TaCo outperforms language-only and demonstration-only policies by a <strong>5-11% margin</strong>. Here, we train the demonstration encoder from scratch and use DistilBERT as the language encoder.
 
 <button type="button" name="button" class="btn" id="btn2" onclick="hideshow('btn2')">View Results as Table</button>
 <div id="btn2_table">
