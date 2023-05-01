@@ -35,7 +35,7 @@ When trained on all 32 objects and evaluated on only the test colors and shapes,
 
 <button type="button" name="button" class="btn" id="btn2" onclick="hideshow('btn2')">View Results as Table</button>
 <div id="btn2_table">
-  <a href="files/table2.png"><img width="80%" src="files/table2.png" /></a>
+  <a href="files/table2.png"><img width="100%" src="files/table2.png" /></a>
 </div>
 
 # How many Demonstrations is Language Worth?
@@ -45,7 +45,7 @@ To evaluate the value of training policies conditioned on both demonstrations an
 
 <button type="button" name="button" class="btn" id="btn3" onclick="hideshow('btn3')">View Results as Table</button>
 <div id="btn3_table">
-  <a href="files/table3.png"><img width="80%" src="files/table3.png" /></a>
+  <a href="files/table3.png"><img width="100%" src="files/table3.png" /></a>
 </div>
 
 <script>
