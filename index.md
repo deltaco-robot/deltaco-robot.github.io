@@ -10,7 +10,7 @@ permalink: /
 {: .fs-5 .fw-300 }
 
 <center>
-<a href="https://www.cs.utexas.edu/~albertyu/">Albert Yu</a>, <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a><br>
+<a href="https://scholar.google.com/citations?user=ZzURcb4AAAAJ&hl=en">Albert Yu</a>, <a href="https://www.cs.utexas.edu/~mooney/">Ray Mooney</a><br>
 UT Austin<br>
 {albertyu, mooney}@utexas.edu<br>
 </center>

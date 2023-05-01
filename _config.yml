@@ -5,10 +5,10 @@ theme: just-the-docs
 url: https://deltaco-robot.github.io
 
 aux_links:
-  PDF: https://openreview.net/pdf?id=4u42KCQxCn8
+  PDF: https://arxiv.org/pdf/2210.04476.pdf
   Poster: files/iclr_poster_v1_1.pdf
   Env Code: https://github.com/Alacarter/roboverse-deltaco
-  Training Code (coming soon): /
+  Training Code (ETA May 7): /
 
 callouts:
   update:
