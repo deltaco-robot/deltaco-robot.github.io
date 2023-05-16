@@ -8,7 +8,7 @@ aux_links:
   PDF: https://arxiv.org/pdf/2210.04476.pdf
   Poster: files/iclr_poster_v1_1.pdf
   Env Code: https://github.com/Alacarter/roboverse-deltaco
-  Training Code (ETA May 7): /
+  Training Code: https://github.com/Alacarter/deltaco
 
 callouts:
   update:

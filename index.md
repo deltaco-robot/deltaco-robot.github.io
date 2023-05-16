@@ -22,6 +22,9 @@ UT Austin<br>
 <image src="files/overview_fig_v2.1.jpg" />
 
 {: .update }
+> <strong>[Training Codebase](https://github.com/Alacarter/deltaco) released! (2023 May 16)</strong>
+
+{: .update }
 > <strong>[Human Language Dataset](human_language) released! (2023 Apr 28)</strong>
 
 {: .update }
